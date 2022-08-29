@@ -1,2 +1,3 @@
-# csn-labs
-Lab submissions for computer systems and networks course
+# CSN labs
+
+Pretty self-explanatory!
