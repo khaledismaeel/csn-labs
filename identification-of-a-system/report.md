@@ -12,7 +12,7 @@ Cars are such a nice example of a system. They have components (the drivetrain, 
 
 The components, the input, the output, and the constraints (or rules) which govern their interactions. A very crude approximation of this is presented in the UML entity-relationship diagram diagram below.
 
-![](diagrams/system.jpg)
+![](https://github.com/khaledismaeel/csn-labs/blob/18461c041b12b717a5d0061adecf057166f45761/identification-of-a-system/diagrams/system.jpg)
 
 The above diagram is inaccurate since constraints govern interactions between components, not only components. Regardless of the many other inaccuracies, let's accept it for now.
 
@@ -32,7 +32,7 @@ Think of an airplane; the components include sensors, actuators, CPU's, etc. The
 
 The signals and the components, which can either be memory components or computational components. Again, this is a disrespectful oversimplification of the concept, and I happen to have the audacity to depict it in the UML entity-relationship diagram below.
 
-![](diagrams/information-system.jpg)
+![](https://github.com/khaledismaeel/csn-labs/blob/18461c041b12b717a5d0061adecf057166f45761/identification-of-a-system/diagrams/information-system.jpg)
 
 ## Task 6
 
@@ -42,7 +42,7 @@ The architecture under consideration provides a standard-compliant interface for
 
 This process is depicted in the figure below.
 
-![](diagrams/distributed-file-system.jpg)
+![](https://github.com/khaledismaeel/csn-labs/blob/18461c041b12b717a5d0061adecf057166f45761/identification-of-a-system/diagrams/distributed-file-system.jpg)
 
 ## Task 7
 
